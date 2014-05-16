@@ -11,11 +11,15 @@
 4)Create a proc and use it with the map() method instead of a block
 
 
-##Stack:
+This exercise was created by [Evgeny Shadchnev](https://github.com/shadchnev).
+
+(Week 4)
+
+##Technologies Used
 - Ruby
 
 
-##Moving forward:
+##Moving forward
 
 
 ### Optional Exercises (inject method)
